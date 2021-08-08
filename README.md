@@ -1,4 +1,13 @@
 # 129513
+IMPORTANT:
+
+Go to 
+
+https://raw.githubusercontent.com/cardinal9999/129513/main/README.md
+
+to get a more accurate view of this guide.
+
+Because GitHub markdown thinks the code is a markdown keyword, this file is distorted.
 
 🧩 is an esoteric programming language that uses 10 characters. It can be easy to learn, but the purpose is to lower the number of bytes need for each program (It sometimes doesn't work).
 ## Installation
@@ -40,7 +49,8 @@ $ Change the pointer by 1
 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()
 ## Programs
 print out "129513":
-
+```
 $[[$[[[[[$[[[[[[[[[[$[[[$[[$[[[[%%%%%@>$@>$@>$@>$@>$@>+
+```
 ## Issues
 🧩 has a lot of issues. Please help fix them at https://github.com/cardinal9999/129513/issues.
