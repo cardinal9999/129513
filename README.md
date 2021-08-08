@@ -55,5 +55,4 @@ print out "129513":
 $[[$[[[[[[$[[[[[[[[[[$[[[$[[$[[[[%%%%%@>$@>$@>$@>$@>$@>+
 ```
 
-## Issues
-🧩 has a lot of issues. Please help fix them at https://github.com/cardinal9999/129513/issues.
+
