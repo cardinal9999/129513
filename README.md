@@ -47,10 +47,13 @@ $ Change the pointer by 1
 🧩 has it's own unicode table:
 
 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()
+
+Note: !sdrawkcab krow ot evah uoy ,315921 htiw edoc oT
 ## Programs
 print out "129513":
 ```
-$[[$[[[[[$[[[[[[[[[[$[[[$[[$[[[[%%%%%@>$@>$@>$@>$@>$@>+
+$[[$[[[[[[$[[[[[[[[[[$[[[$[[$[[[[%%%%%@>$@>$@>$@>$@>$@>+
 ```
+
 ## Issues
 🧩 has a lot of issues. Please help fix them at https://github.com/cardinal9999/129513/issues.
